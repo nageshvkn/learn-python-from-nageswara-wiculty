@@ -1,6 +1,6 @@
 ## Complete Python Syllabus – High-Level Outline
 
-### Module 1: Introduction to Python
+### 📚 Module 1: Introduction to Python
 - History and Features of Python
 - Installing Python and Setting up the Environment
 - Writing First Python Program (Hello World)
