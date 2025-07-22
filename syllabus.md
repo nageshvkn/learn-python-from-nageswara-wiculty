@@ -28,6 +28,9 @@
 - break, continue, pass
 - Nested Loops
 
+--> Some Coding Practice &
+--> Logic Building
+
 ### 📦 Module 5: Data Structures
 - Strings
   - String Methods and Formatting
