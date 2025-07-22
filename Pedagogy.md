@@ -39,7 +39,6 @@ can you generate class notes for my python students for this chapter called "- I
 
 ---
 
-## 🧪 Exercises
 
 👤 **Author:** Nageswara Rao P &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nageshvkn)  
 📧 Email: [nageswara.rao@wiculty.com](mailto:nageswara.rao@wiculty.com)  
@@ -47,39 +46,21 @@ can you generate class notes for my python students for this chapter called "- I
 
 ---
 
-### ✅ Easy:
-1. Create variables for your name, age, and whether you are a student. [Program name]
-## Immediate Tasks:
-1. Create a list of 5 favorite fruits. [Program name]
-## ToDo Tasks:
-2. Create a list of 5 favorite fruits. [Program name]
+## 🧪 Exercises
 
-### 🧠 Medium:
-## Immediate Tasks:
-1. Create a list of 5 favorite fruits. [Program name]
-## ToDo Tasks:
-2. Create a dictionary with keys: `name`, `age`, `course`
-
-### 🔥 Challenge:
-## Immediate Tasks:
-1. Ask the user to input a string and print its reversed version using a variable.
-## ToDo Tasks:
-2. Write a program that stores student records (name, age, grade) using a dictionary.
+---
 
 # Give daily assignments
 
+---
 
-## 🧪 Exercises Solutions
-### Note: Check previous programs which are not in Git, and make sure use-case, and stuff like that are mentiond
-[Program name]
-[Program name]
-[Program name]
-
-
-## 📘 Project: Student Profile Generator
 👤 **Author:** Nageswara Rao P &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nageshvkn)  
 📧 Email: [nageswara.rao@wiculty.com](mailto:nageswara.rao@wiculty.com)  
 🏢 Training Company: [wiculty.com](https://wiculty.com)
+
+---
+
+## 📘 Project: Student Profile Generator
 
 ---
 ### 📌 Description:
@@ -112,6 +93,9 @@ Continue your journey by tackling the related exercises, projects, and interview
 ---
 
 # Add a separate section to show SYNTAX of everything like... SYNTAX TO REMEMBER!
+
+
+# Conduct Weekly Tests - Be strict!!
 
 
 ## Bigger Realtime Project
