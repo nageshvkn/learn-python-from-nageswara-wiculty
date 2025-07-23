@@ -19,7 +19,7 @@
 - Comparison Operators
 - Logical Operators
 - Assignment Operators
-- Bitwise, Identity, and Membership Operators
+- Membership Operators
 - Operator Precedence and Associativity
 
 ### 🔁 Module 4: Control Flow
