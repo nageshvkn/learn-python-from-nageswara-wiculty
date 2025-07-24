@@ -13,7 +13,7 @@
 
 # Prompts
 ```
-can you generate class notes for my python students for this chapter called "- Bitwise, Identity, and Membership Operators" ?  make sure you generate with elaborated content as much as you can..  with Theory, Code examples, Excersices and Mini projects. everything in one markdown file.
+can you generate class notes for my python students for this chapter called "- Operator Precedence and Associativity" ?  make sure you generate with elaborated content as much as you can..  with Theory, Code examples, Excersices and Mini projects. everything in one markdown file.
 ```
 
 ### 🧠 Summary
@@ -24,15 +24,15 @@ can you generate class notes for my python students for this chapter called "- B
 
 ---
 
+
+
+## 🧪 Exercises - Operator Precedence and Associativity In Python
+
+---
+
 👤 **Author:** Nageswara Rao P &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nageshvkn)  
 📧 Email: [nageswara.rao@wiculty.com](mailto:nageswara.rao@wiculty.com)  
 🏢 Training Company: [wiculty.com](https://wiculty.com)
-
----
-
-## 🧪 Exercises
-
----
 
 # Give daily assignments
 
@@ -44,13 +44,27 @@ can you generate class notes for my python students for this chapter called "- B
 
 ---
 
-## 📘 Project: Student Profile Generator
+## 🔨 Projects - Operator Precedence and Associativity
 
 ---
-### 📌 Description:
-### ✅ Output:
-## Solution:
-[Program name]
+
+## 🧩 Project: Expression Evaluator
+
+### 🎯 Objective
+Build a program that:
+- Accepts a mathematical expression from the user
+
+---
+
+## ✅ Solution:
+```python
+```
+
+---
+
+👤 **Author:** Nageswara Rao P &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nageshvkn)  
+📧 Email: [nageswara.rao@wiculty.com](mailto:nageswara.rao@wiculty.com)  
+🏢 Training Company: [wiculty.com](https://wiculty.com)
 
 ---
 
@@ -71,6 +85,8 @@ Continue your journey by tackling the related exercises, projects, and interview
 ---
 
 # Conduct Weekly Tests - Be strict!!
+
+# At the end, write complex 50 programs.. to cover interview questions, logic building and solve real-world scripts.
 
 
 ## Bigger Realtime Project
