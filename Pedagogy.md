@@ -1,19 +1,21 @@
 # Notes
 
-👤 **Author:** Nageswara Rao P &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nageshvkn)  
-📧 Email: [nageswara.rao@wiculty.com](mailto:nageswara.rao@wiculty.com)  
-🏢 Training Company: [wiculty.com](https://wiculty.com)
 
----
 
 # 🔤 Variables and Data Types
 
 ### 🎯 Learning Objectives
 - Grasp how Python variables reference data in memory.
 
+👤 **Author:** Nageswara Rao P &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nageshvkn)  
+📧 Email: [nageswara.rao@wiculty.com](mailto:nageswara.rao@wiculty.com)  
+🏢 Training Company: [wiculty.com](https://wiculty.com)
+
+---
+
 # Prompts
 ```
-can you generate class notes for my python students for this chapter called "- Operator Precedence and Associativity" ?  make sure you generate with elaborated content as much as you can..  with Theory, Code examples, Excersices and Mini projects. everything in one markdown file.
+can you generate class notes for my python students for this chapter called "- if, if-else, if-elif-else"?  make sure you generate with elaborated content as much as you can..  with Theory, Code examples, Excersices and Mini projects. everything in one markdown file.
 ```
 
 ### 🧠 Summary
@@ -24,15 +26,22 @@ can you generate class notes for my python students for this chapter called "- O
 
 ---
 
-
+========================
 
 ## 🧪 Exercises - Operator Precedence and Associativity In Python
+
+---
+### 🔹 Exercise 1: Predict the Output
+```python
+```
 
 ---
 
 👤 **Author:** Nageswara Rao P &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nageshvkn)  
 📧 Email: [nageswara.rao@wiculty.com](mailto:nageswara.rao@wiculty.com)  
 🏢 Training Company: [wiculty.com](https://wiculty.com)
+
+========================
 
 # Give daily assignments
 
@@ -56,7 +65,7 @@ Build a program that:
 
 ---
 
-## ✅ Solution:
+### ✅ Solution:
 ```python
 ```
 
