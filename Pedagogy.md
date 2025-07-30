@@ -13,7 +13,8 @@
 
 # Prompts
 ```
-can you generate class notes for my python students for this chapter called "- while and for Loops"?  make sure you generate with elaborated content as much as you can..  with Theory, Code examples, Excersices and Mini projects. everything in one markdown file.
+can you generate class notes for my python students for this chapter called "- break, continue, pass
+"?  make sure you generate with elaborated content as much as you can..  with Theory, Code examples, Excersices and Mini projects. everything in one markdown file.
 ```
 
 ### 🧠 Summary
@@ -24,7 +25,9 @@ can you generate class notes for my python students for this chapter called "- w
 
 ---
 
-========================
+### 📌 Syntax
+
+---
 
 ## 🧪 Exercises - Operator Precedence and Associativity In Python
 
