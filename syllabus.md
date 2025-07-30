@@ -41,6 +41,9 @@
 - Dictionaries
 - Nested Data Structures
 
+--> Some Coding Practice &
+--> Logic Building
+
 ### 🧰 Module 6: Functions and Recursion
 - Function Definition and Invocation
 - Arguments and Return Values
@@ -49,6 +52,9 @@
 - *args and **kwargs
 - Lambda Functions
 - Recursion
+
+--> Some Coding Practice &
+--> Logic Building
 
 ### 📚 Module 7: Modules and Packages
 - Importing Modules
